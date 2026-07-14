@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Alueee/Alueee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alue.
 
-Here are some ideas to get you started:
+### 保持好奇，持续创造。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build, learn, and share on the web.
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alueee&show_icons=true&hide_border=true&hide_title=true&theme=transparent)
+
+<br>
+
+<sub>Thanks for stopping by.</sub>
+
+</div>
