@@ -1,17 +1,20 @@
 <div align="center">
 
-# Hi, I'm Alue.
+# Alue
 
-### 保持好奇，持续创造。
+<samp>DESIGN · CODE · THOUGHT</samp>
 
-I build, learn, and share on the web.
+<br><br>
+
+克制地设计，认真地创造。  
+Building thoughtful things for the web.
 
 <br>
 
-`Create` · `Learn` · `Share`
+[Selected work →](https://github.com/Alueee?tab=repositories)
 
-<br>
+<br><br>
 
-<sub>Thanks for stopping by.</sub>
+<sub>Clarity over noise.</sub>
 
 </div>
