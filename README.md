@@ -2,19 +2,12 @@
 
 # Alue
 
-<samp>DESIGN · CODE · THOUGHT</samp>
-
-<br><br>
-
-克制地设计，认真地创造。  
-Building thoughtful things for the web.
-
 <br>
 
-[Selected work →](https://github.com/Alueee?tab=repositories)
+<samp>STAY CURIOUS · KEEP CREATING</samp>
 
 <br><br>
 
-<sub>Clarity over noise.</sub>
+<sub>保持简单，持续创造。</sub>
 
 </div>
