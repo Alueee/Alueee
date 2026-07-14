@@ -8,7 +8,7 @@ I build, learn, and share on the web.
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alueee&show_icons=true&hide_border=true&hide_title=true&theme=transparent)
+`Create` · `Learn` · `Share`
 
 <br>
 
